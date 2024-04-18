@@ -26,7 +26,7 @@ function App() {
         </Navbar>
       </header>
 
-      <main style={{paddingTop:'72px'}} >
+      <main style={{paddingTop:'64px'}} >
 
         <section id="about">
           <Container fluid className="bg-banner-custom d-grid align-items-center gx-0">
