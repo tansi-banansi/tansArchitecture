@@ -10,7 +10,7 @@ function App() {
     <div>
       <header className="w-100">
         <Navbar expand='lg' fixed="top" data-bs-theme='dark' className="bg-navbar-custom shadow" >
-          <Container fluid className="m-2">
+          <Container fluid className="m-1">
             <Navbar.Brand href="#" className="text-uppercase" style={{letterSpacing:'1px', fontFamily:'Montserrat'}}>Tans Architecture</Navbar.Brand>
             <Navbar.Toggle aria-controls="basic-navbar-nav"/>
             <Navbar.Collapse id="basic-navbar-nav">
@@ -18,7 +18,7 @@ function App() {
                 <Nav.Link href="#about" className="mx-2" >About</Nav.Link>
                 <Nav.Link href="#portfolio" className="mx-2"  >Portfolio</Nav.Link>
                 <Nav.Link href="#services" className="mx-2" >Services</Nav.Link>
-                <Button href="#contact" className="bg-button-custom px-4 mx- btn-dark "  > Contact us</Button>
+                <Button href="#contact" className="bg-button-custom px-4   btn-dark "  > Contact us</Button>
               </Nav>
 
             </Navbar.Collapse>
