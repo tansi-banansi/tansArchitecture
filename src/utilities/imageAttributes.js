@@ -5,6 +5,7 @@ const imageAttributes = [
         sm:6,
         md:6,
         lg:4,
+        alt:'3D interior visual of a living room'
     },
     {
         path: '/img/2.jpg',
@@ -12,6 +13,7 @@ const imageAttributes = [
         sm:3,
         md:3,
         lg:2,
+        alt:'3D interior visual of a living room'
     },
     {
         path: '/img/3.jpg',
@@ -19,6 +21,7 @@ const imageAttributes = [
         sm:3,
         md:3,
         lg:2,
+        alt:'3D interior visual of a hallway'
     },
     {
         path: '/img/4.avif',
@@ -26,6 +29,7 @@ const imageAttributes = [
         sm:6,
         md:6,
         lg:4,
+        alt:'3D interior visual of a kitchen'
     },
     {
         path: '/img/5.avif',
@@ -33,6 +37,7 @@ const imageAttributes = [
         sm:6,
         md:6,
         lg:4,
+        alt:'3D interior visual of a living room'
     },
     {
         path: '/img/6.jpg',
@@ -40,6 +45,7 @@ const imageAttributes = [
         sm:3,
         md:3,
         lg:2,
+        alt:'3D interior visual of a WC'
     },
     {
         path: '/img/7.avif',
@@ -47,6 +53,7 @@ const imageAttributes = [
         sm:3,
         md:3,
         lg:2,
+        alt: '3D interior visual of a dining area'
     },
     {
         path: '/img/8.jpg',
@@ -54,6 +61,7 @@ const imageAttributes = [
         sm:6,
         md:6,
         lg:4,
+        alt:'3D interior visual of a living area'
     },
 
 ]

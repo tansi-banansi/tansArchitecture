@@ -24,7 +24,7 @@ function ImageGallery() {
         {imageAttributes.map(image => {
           return( 
             <Col xs={image.xs} sm={image.sm} md={image.md} lg={image.lg} style={{ maxHeight: '30vh' }} className="g-1">
-              <Image src={image.path} className="img-fluid w-100 h-100 object-fit-cover" onClick={() => handleImageClick(image)}  />
+              <Image src={image.path} className="img-fluid w-100 h-100 object-fit-cover" onClick={() => handleImageClick(image)} alt={image.alt} />
             </Col>
           )
         })}
