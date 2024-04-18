@@ -95,7 +95,7 @@ function App() {
 
               <Col sm={12}  lg={6}>
                 <div className="rounded-5" style={{height:'100%'}}>
-                  <img src="/img/contact-us.jpg" alt="Support image for contacts" className="img-fluid w-100 h-100 object-fit-cover d-none d-sm-none d-md-none  d-lg-block" />
+                  <img src="/img/contact-us.jpg" alt="Support for contacts" className="img-fluid w-100 h-100 object-fit-cover d-none d-sm-none d-md-none  d-lg-block" />
                 </div>
               </Col>
             </Row>

@@ -32,7 +32,7 @@ function ImageGallery() {
 
       <Modal show={showModal} onHide={handleClose} centered>
         <Modal.Body>
-          <img src={selectedImage?.path} className="img-fluid" alt="Selected Image" />
+          <img src={selectedImage?.path} className="img-fluid" alt="Selected project" />
         </Modal.Body>
       </Modal>
 
